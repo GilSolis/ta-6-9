@@ -1,0 +1,8 @@
+C:\Users\gilbe\AppData\Local\Temporary Projects\Video_6\bin\Debug\Video_6.exe
+C:\Users\gilbe\AppData\Local\Temporary Projects\Video_6\bin\Debug\Video_6.pdb
+C:\Users\gilbe\AppData\Local\Temporary Projects\Video_6\bin\Debug\Video_6.xml
+C:\Users\gilbe\AppData\Local\Temporary Projects\Video_6\obj\x86\Debug\Video_6.Resources.resources
+C:\Users\gilbe\AppData\Local\Temporary Projects\Video_6\obj\x86\Debug\Video_6.vbproj.GenerateResource.Cache
+C:\Users\gilbe\AppData\Local\Temporary Projects\Video_6\obj\x86\Debug\Video_6.exe
+C:\Users\gilbe\AppData\Local\Temporary Projects\Video_6\obj\x86\Debug\Video_6.xml
+C:\Users\gilbe\AppData\Local\Temporary Projects\Video_6\obj\x86\Debug\Video_6.pdb
